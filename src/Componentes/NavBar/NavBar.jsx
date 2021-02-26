@@ -85,7 +85,7 @@ const navBar = () =>{
                         </ul>
                     </div>
                     <div class="columna-img">
-                        <img src="img/Conquers_550x.jpg" alt="" width="100%"/>
+                        <img src="/img/Conquers_550x.jpg" alt="" width="100%"/>
                     </div>
                 </div>
             </li>
@@ -121,7 +121,7 @@ const navBar = () =>{
                         </ul>
                     </div>
                     <div class="columna-img">
-                        <img src="img/pc-gammer2.png" alt="" width="100%"/>
+                        <img src="/img/pc-gammer2.png" alt="" width="100%"/>
                     </div>
                 </div>
             </li>
@@ -156,7 +156,7 @@ const navBar = () =>{
                     </div>
                    
                     <div class="columna-img">
-                        <img src="img/Conquers_550x.jpg" alt="" width="100%"/>
+                        <img src="/img/Conquers_550x.jpg" alt="" width="100%"/>
                     </div>
                 </div>
             </li>
@@ -173,7 +173,7 @@ const navBar = () =>{
                         <li><a href="#">Teclados</a></li>
                     </ul>
                 </div>
-                <div class="columna-img"><img src="img/inicio_peris_550x.png" alt="" width="100%"/></div>
+                <div class="columna-img"><img src="/img/inicio_peris_550x.png" alt="" width="100%"/></div>
                </div>
             </li>
             <li><a href="#">Acercad e Egamming</a>
@@ -201,7 +201,7 @@ const navBar = () =>{
 
 <section>
     <div class="banner">
-        <img src="img/pf-e3a6c76f--BNNERMRPC45.png" alt=""/>
+        <img src="/img/pf-e3a6c76f--BNNERMRPC45.png" alt=""/>
     </div>
 </section>
 
